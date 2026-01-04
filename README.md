@@ -1,4 +1,4 @@
-## Hi there 👋  I’m Pranali Yelmule
+## Hi 👋  I’m Pranali Yelmule
 
    With 2 years of experience in Talent Acquisition and HR Analysis, I’m now diving into **Power BI and SQL to excel in Data Analytics.** 
     My goal is to transform raw data into actionable insights, enabling smarter decision-making and efficient resource management.
